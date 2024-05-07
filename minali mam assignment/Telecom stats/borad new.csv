@@ -1,0 +1,399 @@
+LOCATION,Country,VAR,Variable ,TIME,Time,Unit Code,Unit,PowerCode ,PowerCode,Reference ,Reference ,Value
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,212
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,1.373
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,115
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,692
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,2.006
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,268
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,428
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,244
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,1.101
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,499
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,909
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,769
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,893
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,203
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,573
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,385
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,1.045
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,301
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,1.571
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,338
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,514
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,466
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,317
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,1.377
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,635
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2012,2012,0,0,0,Units,0,0,478
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,379
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,1.824
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,0.19
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,1.049
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,2.531
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,382
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,586
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,305
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,1.063
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,966
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,1.143
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,861
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,1.302
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,861
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,275
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,762
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,505
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,954
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,406
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,2.247
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,553
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,541
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,924
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,667
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,1.708
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,687
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,623
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,0.75
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2013,2013,0,0,0,Units,0,0,976
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,675
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,2.53
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,0.35
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,383
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.666
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,3.739
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,654
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,697
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,404
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.13
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.963
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.523
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.063
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.681
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.938
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.29
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,0.48
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.233
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.051
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.066
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,526
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,2.866
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.065
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,893
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,954
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.045
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,677
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,2.846
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,2.34
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,868
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,689
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.079
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,1.629
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2014,2014,0,0,0,Units,0,0,883
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.081
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,4.344
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,588
+CAN,Canada,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.357
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,611
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.824
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,6.675
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.034
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,884
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,609
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.267
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.914
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.144
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.36
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.16
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.791
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.137
+MEX,Mexico,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,399
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,782
+NZL,New Zealand,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,612
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.86
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.123
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.248
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,907
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,3.497
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.588
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.329
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.505
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.213
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,828
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,3.528
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,6.196
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.294
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.006
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.79
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,2.81
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2015,2015,0,0,0,Units,0,0,1.608
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.613
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,7.413
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,928
+CAN,Canada,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.541
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.054
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,4.557
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,10.891
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.768
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.282
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,0.71
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.631
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,4.251
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,3.145
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.867
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.656
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,4.023
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.998
+MEX,Mexico,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,777
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.126
+NZL,New Zealand,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,01.05
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.697
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,4.091
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.643
+SVK,Slovak Republic,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,728
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.272
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,4.55
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.742
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.067
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.031
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.846
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,958
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,4.451
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,7.577
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.489
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,1.683
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.43
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,4.489
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2016,2016,0,0,0,Units,0,0,2.456
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,2.149
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,11.902
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.358
+CAN,Canada,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.999
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.778
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,6.035
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,15.583
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,3.617
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.842
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.246
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,2.589
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,5.831
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,4.85
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,2.747
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,3.41
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,5.312
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,3.775
+MEX,Mexico,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.325
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.829
+NZL,New Zealand,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.591
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,3.946
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,5.144
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,2.456
+SVK,Slovak Republic,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,758
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,2.098
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,5.841
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,4.331
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,3.137
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,2.71
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,3.037
+CHL,Chile,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,3.803
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,1.209
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,7.632
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,13.836
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,6.916
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,2.953
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,3.165
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,7.103
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2017,2017,0,0,0,Units,0,0,2.526
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,4.641
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,16.401
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,1.813
+CAN,Canada,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,2.463
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,3.39
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,7.448
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,19.633
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,5.627
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,2.536
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,1.536
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,3.591
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,7.825
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,6.932
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,4.304
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,4.324
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,6.486
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,3.993
+MEX,Mexico,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,2.108
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,2.581
+NZL,New Zealand,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,2.46
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,4.849
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,6.476
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,2.994
+SVK,Slovak Republic,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,1.072
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,2.832
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,7.319
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,6.914
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,4.433
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,3.363
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,5.39
+CHL,Chile,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,6.624
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,1.626
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,9.816
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,14.804
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,10.234
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,4.715
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,4.697
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,7.889
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2018,2018,0,0,0,Units,0,0,2.466
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,7.604
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,18.771
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,2.655
+CAN,Canada,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,2.929
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,1.821
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,9.566
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,23.48
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,7.64
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,3.34
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,2.123
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,4.573
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,11.321
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,8.65
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,7.072
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,5.068
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,8.612
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,5.104
+MEX,Mexico,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,3.643
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,3.185
+NZL,New Zealand,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,3.213
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,5.622
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,8.7
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,3.84
+SVK,Slovak Republic,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,4.819
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,3.396
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,8.939
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,9.441
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,6.066
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,4.123
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,6.544
+CHL,Chile,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,9.849
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,2.093
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,11.662
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,19.637
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,13.623
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,6.467
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,5.988
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,7.539
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2019,2019,0,0,0,Units,0,0,2.817
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,9.26
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,22.738
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,3.414
+CAN,Canada,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,3.525
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,3.17
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,13.045
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,30.233
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,9.973
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,4.573
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,3.438
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,6.887
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,16.7
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,12.427
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,10.97
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,6.182
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,11.048
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,6.781
+MEX,Mexico,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,4.534
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,3.711
+NZL,New Zealand,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,4.602
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,7.211
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,9.317
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,4.718
+SVK,Slovak Republic,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,5.412
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,5.427
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,11.99
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,12.337
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,8.924
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,5.315
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,7.12
+CHL,Chile,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,12.751
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,2.801
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,14.712
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,26.986
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,20.224
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,8.967
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,7.331
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,8.427
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2020,2020,0,0,0,Units,0,0,4.052
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,11.16
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,26.365
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,4.098
+CAN,Canada,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,4.868
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,4.697
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,16.082
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,35.824
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,11.691
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,06.02
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,4.913
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,9.136
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,20.304
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,16.305
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,14.42
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,7.265
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,12.954
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,8.47
+MEX,Mexico,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,5.112
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,4.696
+NZL,New Zealand,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,4.601
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,9.561
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,10.844
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,5.856
+SVK,Slovak Republic,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,6.954
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,7.683
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,15.268
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,15.274
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,10.808
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,6.572
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,8.459
+CHL,Chile,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,15.381
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,4.629
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,18.597
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,35.364
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,24.369
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,10.452
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,8.858
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,9.839
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2021,2021,0,0,0,Units,0,0,4.764
+AUS,Australia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,11.441
+AUT,Austria,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,30.267
+BEL,Belgium,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,5.907
+CAN,Canada,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,5.857
+CZE,Czechia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,7.191
+DNK,Denmark,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,19.029
+FIN,Finland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,40.07
+FRA,France,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,14.5
+DEU,Germany,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,7.348
+GRC,Greece,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,6.943
+HUN,Hungary,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,11.261
+ISL,Iceland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,23.664
+IRL,Ireland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,19.089
+ITA,Italy,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,18.439
+JPN,Japan,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,8.48
+KOR,Korea,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,15.104
+LUX,Luxembourg,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,10.465
+MEX,Mexico,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,4.299
+NLD,Netherlands,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,6.188
+NZL,New Zealand,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,5.778
+NOR,Norway,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,11.588
+POL,Poland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,12.271
+PRT,Portugal,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,7.684
+SVK,Slovak Republic,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,8.928
+ESP,Spain,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,10.242
+SWE,Sweden,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,18.842
+CHE,Switzerland,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,17.846
+TUR,Türkiye,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,13.992
+GBR,United Kingdom,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,08.06
+USA,United States,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,9.546
+CHL,Chile,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,18.969
+COL,Colombia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,6.739
+EST,Estonia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,22.15
+LVA,Latvia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,41.756
+LTU,Lithuania,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,27.757
+SVN,Slovenia,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,13.399
+OECD,OECD - Total,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,10.359
+ISR,Israel,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,11.317
+CRI,Costa Rica,BB-DATA-GB,"Mobile data usage per mobile broadband subscription, GB per month",2022,2022,0,0,0,Units,0,0,5.714
